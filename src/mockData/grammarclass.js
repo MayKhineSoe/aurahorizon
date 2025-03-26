@@ -1,0 +1,32 @@
+export const GrammarClassData = [
+    {
+        id: 1,
+        type: "Grammar-Junior 1",
+        time: "6:00 - 7:00 PM",
+        day: "Sat & Sun",
+        ageGroup: "7 to 10 years",
+        backgroundColor: "bg-red-400",
+        textColor: "text-red-400",
+        delay: 0.2,
+    },
+    {
+        id: 2,
+        type: "Grammar-Junior 2",
+        time: "6:00 - 7:00 PM",
+        day: "Sat & Sun",
+        ageGroup: "9 to 12 years",
+        backgroundColor: "bg-teal-400",
+        textColor: "text-teal-400",
+        delay: 0.4,
+    },
+    {
+        id: 3,
+        type: "Grammar-Senior",
+        time: "6:00 - 7:00 PM",
+        day: "Sat & Sun",
+        ageGroup: "Above 12 years",
+        backgroundColor: "bg-cyan-400",
+        textColor: "text-cyan-400",
+        delay: 0.5,
+    },
+]
